@@ -1,4 +1,5 @@
 approvers:
-    - rubbentest
+   # - rubbentest
+     - someone
 
 # vim: ft=yaml
